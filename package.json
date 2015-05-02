@@ -20,7 +20,8 @@
     "hubot-youtube": "^0.1.2",
     "hubot-yardmaster": "*",
     "hubot-gif-locker": "*",
-    "hubot-mandrill": "*"
+    "hubot-mandrill": "*",
+    "hubot-trell0": "*"
   },
   "engines": {
     "node": "0.10.x"
