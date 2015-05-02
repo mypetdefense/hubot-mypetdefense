@@ -21,7 +21,7 @@
     "hubot-yardmaster": "*",
     "hubot-gif-locker": "*",
     "hubot-mandrill": "*",
-    "hubot-trell0": "*"
+    "hubot-trello": "*"
   },
   "engines": {
     "node": "0.10.x"
