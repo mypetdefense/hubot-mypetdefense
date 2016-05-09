@@ -1,11 +1,12 @@
 {
-  "name": "Hubot",
+  "name": "Ace",
   "version": "0.0.0",
   "private": true,
   "author": "Mike Rivera <rivera.mj@gmail.com>",
   "description": "The One",
   "dependencies": {
-    "hubot": "^2.12.0",
+    "hubot": ">=2.19.0",
+    "hubot-flowdock": ">=0.6.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
@@ -16,11 +17,9 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2",
     "hubot-yardmaster": "*",
     "hubot-gif-locker": "*",
-    "hubot-mandrill": "*",
     "hubot-trello": "*"
   },
   "engines": {
